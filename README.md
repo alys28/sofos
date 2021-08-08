@@ -1,4 +1,4 @@
-# Ourworld
+# OurWorld
 
 
 App designed to help everyone explore our world. Thanks to posts in either text or video format, or even interactive interfaces, users can interact with them and briefly learn about various topics. 
