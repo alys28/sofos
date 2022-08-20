@@ -1,4 +1,4 @@
-# OurWorld
+# SOFOS
 
 
 App designed to help everyone explore our world. Thanks to posts in either text or video format, users can interact with them and briefly learn about various topics. 
